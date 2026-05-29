@@ -2,7 +2,7 @@
   <a href="./README_EN.md">English</a> | 中文
 </div>
 <div align='center'>
-  <img src="./images/hello-agents.png" alt="alt text" width="100%">
+  <img src="./images/hello-agents.png" alt="Hello-Agents 项目封面" width="100%">
   <h1>Hello-Agents</h1>
   <h3>🤖 《从零开始构建智能体》</h3>
   <div align="center">

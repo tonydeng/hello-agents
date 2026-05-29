@@ -1,5 +1,5 @@
 <div align='center'>
-  <img src="./images/hello-agents.png" alt="alt text" width="100%">
+  <img src="./images/hello-agents.png" alt="Hello-Agents project cover" width="100%">
   <h1>Hello-Agents</h1>
   <h3>🤖 "Building Agent Systems from Scratch"</h3>
   <div align="center">
@@ -168,7 +168,7 @@ We are an open-source community and welcome any form of contribution!
 ## Reader Community Group
 
 <div align='center'>
-	<img src="https://raw.githubusercontent.com/datawhalechina/Hello-Agents/main/读者群二维码.png" alt="阅读群额码" width="30%">
+	<img src="../读者群二维码.png" alt="Reader community QR code" width="30%">
 	<p>Scan the QR code to join the reader community group and discuss with more learners</p>
 </div>
 
